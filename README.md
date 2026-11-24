@@ -10,6 +10,10 @@ Full-stack development at an IT service provider in the automotive sector:
 REST APIs with Spring Boot, user interfaces with React and TypeScript, and
 containerized deployments with Docker and CI/CD pipelines.
 
+I use this GitHub account for personal projects only. My professional work
+lives in private company repositories, as is usual in an enterprise
+environment, so it does not show up here.
+
 ## Mods
 
 I have published mods for My Winter Car, My Garage and Megabonk. Together
